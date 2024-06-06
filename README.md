@@ -13,8 +13,8 @@ This repository contains the implementation for training and evaluating the YOLO
 1. **Clone the Repository**:
 
    ```sh
-   !git clone https://github.com/WongKinYiu/yolov7.git
-   !wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt
+   git clone https://github.com/WongKinYiu/yolov7.git
+   wget https://github.com/WongKinYiu/yolov7/releases/download/v0.1/yolov7.pt
    cd /content/yolov7
 
 2. **Install Dependencies**:
