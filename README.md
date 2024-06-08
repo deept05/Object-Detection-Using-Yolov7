@@ -6,8 +6,8 @@ This repository contains the implementation for training and evaluating the YOLO
 
 - **Single-Stage Detection**: YOLOv7 processes images in a single pass, directly predicting bounding boxes and class probabilities.
 - **High Performance**: Optimized architecture for superior speed and accuracy, suitable for real-time applications.
-- **COCO Dataset**: Trained and evaluated on the COCO dataset, which includes 80 object categories with over 200,000 labeled images.
-
+-**Custom Dataset**: Trained and evaluated on a custom dataset including four categories: cat, dog and rabbit.
+  
 ## Installation
 
 1. **Clone the Repository**:
@@ -42,8 +42,8 @@ This repository contains the implementation for training and evaluating the YOLO
 
 
 
-##Custom Dataset Preparation
-####To use your custom dataset with YOLOv7, follow these steps:
+## Custom Dataset Preparation
+#### To use your custom dataset with YOLOv7, follow these steps:
 1.Organize your dataset: Structure your dataset in the following format:
  ```sh
 dataset/
